@@ -19,7 +19,7 @@
     padding: 5px 0px;
     background-color: rgb(12, 255, 247);
     border-radius: 15px;
-    margin: 10px 195px;
+    margin: 10px 320px;
     width: 50%;
     text-align: center;
 }
@@ -31,7 +31,7 @@ Body{
 
 #Imagem{
    width: 40%;
-   margin: 30px 175px; 
+   margin: 30px 380px; 
 }
 
 #Catalogo{
