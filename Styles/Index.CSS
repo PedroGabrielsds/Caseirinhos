@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#Cabeçalho{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(0, 255, 238);
+    margin: 5px;
+    border-radius: 15px;
+
+}
+
+#Corpo{
+    color: rgb(0, 0, 0);
+    padding: 5px 0px;
+    background-color: rgb(12, 255, 247);
+    border-radius: 15px;
+    margin: 10px 195px;
+    width: 50%;
+    text-align: center;
+}
+
+Body{
+    background-color: black;
+
+}
+
+#Imagem{
+   width: 40%;
+   margin: 30px 175px; 
+}
+
+#Catalogo{
+    background-color: rgb(0, 0, 0);
+
+}
+
